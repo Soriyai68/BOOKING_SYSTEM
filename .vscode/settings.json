@@ -1,5 +1,6 @@
 {
  "editor.fontFamily": "JetBrains Mono Thin",
  "editor.fontSize": 13,
- "chat.agent.maxRequests": 20
+ "chat.agent.maxRequests": 20,
+ "kiroAgent.configureMCP": "Disabled"
 }
